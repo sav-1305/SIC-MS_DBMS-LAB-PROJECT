@@ -15,8 +15,11 @@ The proposed Startup Database Management System designed to be used by a busines
 
 ## SYSTEM REQUIREMENTS
 Processor: Intel Core i3 or equivalent
+
 Processor Speed: 1.5GHZ or above
+
 RAM: 2 GB RAM or above
+
 Hard Disk: 30 GB hard disk or above
 
 
